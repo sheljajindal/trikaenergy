@@ -597,7 +597,7 @@ a:hover
     opacity: 0;
     border: 5px solid #fff;
     background: red;
-    background-image: url(../img/card-background.jpg);
+    background-image: url(../img/card-backgrounds.jpg);
     background-position: center;
     background-size: cover;
 }
